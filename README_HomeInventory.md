@@ -21,13 +21,7 @@ public class HomeInventory extends JFrame
 {
     // Toolbar
     JToolBar inventoryToolBar = new JToolBar();
-//    JButton newButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\new.png"));
-//    JButton deleteButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\delete.png"));
-//    JButton saveButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\save.png"));
-//    JButton previousButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\previous.png"));
-//    JButton nextButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\next.png"));
-//    JButton printButton = new JButton(new ImageIcon("D:\\KOTLIN\\InventoryManager\\print.png"));
-JButton newButton = new JButton();
+    JButton newButton = new JButton();
     JButton deleteButton = new JButton();
     JButton saveButton = new JButton();
     JButton previousButton = new JButton();
