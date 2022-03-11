@@ -1,0 +1,16 @@
+# java-project-2
+Inventory Manager
+
+<!-- Inventory.txt -->
+1
+Vaccum cleaner
+dmart
+123456
+false
+4000
+02/09/2022
+www.abc.com
+vaccum cleaner
+C:\Users\Sachin Jha\Desktop\vaccum-cleaner.jpg
+1
+dmart
